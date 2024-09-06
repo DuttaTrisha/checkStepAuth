@@ -1,0 +1,59 @@
+body{
+    background:#000;
+}
+
+
+.cmn-btn{
+    background: #fff !important;
+    color:#05215a !important;
+    padding:8px 48px !important;
+    cursor:pointer !important;
+    border-radius: 30px !important;
+    margin:20px 0 !important;
+}
+.table-block{
+    width:100%;
+    padding: 0 20px;
+}
+.table-block .css-1t7lzbz-MuiTableCell-root, .table-block .css-1q1u3t4-MuiTableRow-root, .table-block .css-10ukr6t-MuiTableCell-root  {
+    background: #05215a;
+    color:#fff;
+}
+/* .recipe-block .css-f83yjn-MuiGrid-root{
+    display: flex !important;
+    flex-direction: row !important;
+} */
+ /* .signin-block .css-1u3bzj6-MuiFormControl-root-MuiTextField-root{
+    width:100% ;
+ } */
+.signin-block .css-f83yjn-MuiGrid-root{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #5c636e;
+    margin: 50px !important;
+    padding:50px 0;
+}
+.recipe-block{
+    display: flex;
+    flex-direction: row !important;
+    justify-content: center;
+    align-items: center;
+    margin:20px 0;
+}
+.recipe-block .css-6fm6rz-MuiPaper-root-MuiCard-root{
+    width:300px;
+    height:300px;
+    padding:8px 20px;
+    overflow-y:scroll;
+    background: #05215a;
+    color:#fff;
+}
+.login-btn{
+    background: #05215a !important;
+    color:#fff !important;
+    cursor:pointer;
+    padding:8px 48px !important;
+}
+ 
